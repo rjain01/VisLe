@@ -9,3 +9,6 @@ Appearance not only influences their market value, the preferences and the choic
 
 Fruits change their color when they rot.
 Thus simple thresholding techniques give good results.
+
+![image](https://user-images.githubusercontent.com/75874245/180984448-99cb9c4c-8e71-4897-a65c-9b8d30391585.png)
+![image](https://user-images.githubusercontent.com/75874245/180984599-1f18a490-f18b-451a-a178-49e120073c2f.png)
